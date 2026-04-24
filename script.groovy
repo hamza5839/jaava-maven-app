@@ -15,3 +15,4 @@ def deployApp() {
     echo 'Deploying...'
                 // Add your deploy commands here
 }
+return this
